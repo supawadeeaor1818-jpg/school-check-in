@@ -14,13 +14,13 @@ try { console.log('BKM e-Time build', BUILD); } catch (e) {}
    ห้ามลบเครื่องหมายคำพูด จุลภาค และวงเล็บปีกกา
    ========================================================== */
 const FIREBASE_CONFIG = {
-  apiKey:            "ใส่ค่า apiKey",
-  authDomain:        "ใส่ค่า authDomain",
-  databaseURL:       "ใส่ค่า databaseURL",
-  projectId:         "ใส่ค่า projectId",
-  storageBucket:     "ใส่ค่า storageBucket",
-  messagingSenderId: "ใส่ค่า messagingSenderId",
-  appId:             "ใส่ค่า appId"
+  apiKey:            "AIzaSyAOjlSV9PvhO9sUXEH9mOCIzrbKbUcCyYQ",
+  authDomain:        "school-check-in-93dff.firebaseapp.com",
+  databaseURL:       "https://school-check-in-93dff-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId:         "school-check-in-93dff",
+  storageBucket:     "school-check-in-93dff.firebasestorage.app",
+  messagingSenderId: "502766243256",
+  appId:             "1:502766243256:web:36668402f57e879833d34d"
 };
 
 const SDK_VER = '10.12.2';
